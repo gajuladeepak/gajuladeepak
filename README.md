@@ -101,6 +101,3 @@ My name is <b>Deepak Gajula</b> and I'm an <b>Application Support Engineer (DevO
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=gajuladeepak&icon=0&color=0" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
