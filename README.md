@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/banner.jpeg" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Deepak Gajula
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+### DevOps $ Cloud Engineer  – Cognizant
+🚀 DevOps Engineer | AWS | Kubernetes (EKS) | CI/CD | Terraform
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gajula-deepak/)
