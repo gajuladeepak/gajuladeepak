@@ -44,19 +44,17 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 
 ---
 
-### 💼 Career Snapshot
+## 💼 Career Snapshot
 
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
+- **Cognizant – Programmer Analyst** *(Oct 2022 – Present)*  
+  Worked across multiple client projects delivering DevOps and cloud automation solutions.
 
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
+  - **Buzz Online Blending Application**  
+    CI/CD automation and Kubernetes (AWS EKS) deployments for 25+ microservices using Jenkins, Docker, and Terraform.
 
-- 🏢 **CGI** – *Systems Engineer*  
-  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
+  - **Pearson Education**  
+    Infrastructure automation and configuration using Terraform, Ansible, and Shell scripting on AWS-based platforms.
 
-- 🏢 **Avineon** – *GIS Engineer*  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
 
 
 
