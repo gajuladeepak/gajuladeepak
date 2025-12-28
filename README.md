@@ -46,7 +46,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 
 ## 💼 Career Snapshot
 
-- **Cognizant – Programmer Analyst** *(Oct 2022 – Present)*  
+- **Cognizant – Programmer Analyst**  
   Worked across multiple client projects delivering DevOps and cloud automation solutions.
 
   - **Buzz Online Blending Application**  
@@ -79,9 +79,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajuladeepak&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=gajuladeepak&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajuladeepak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
