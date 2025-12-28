@@ -31,16 +31,16 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 
 ---
 
-### 🔧 What I Do
+## 🔧 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- 🚀 **Design and manage cloud infrastructure on AWS** using **Terraform**, enabling secure, repeatable, and consistent environment provisioning across **dev, qa, uat, and prod**.
+- ☸️ **Deploy and operate containerized microservices on Kubernetes (AWS EKS)** using **Docker**, **Helm**, and native Kubernetes resources for scalable and reliable releases.
+- 🔁 **Build and optimize CI/CD pipelines** using **Jenkins**, automating build, test, scan, image creation, and deployment workflows for multiple microservices.
+- 🧩 **Standardize release processes** to ensure artifact consistency and **zero-downtime deployments** using rolling updates, readiness/liveness probes, and rollback strategies.
+- 🐧 **Automate infrastructure and operational tasks** using **Linux**, **Shell Scripting**, and **Ansible**, reducing manual effort and improving operational reliability.
+- 🔐 **Manage cloud security and access controls** using **AWS IAM**, **Kubernetes RBAC**, **ConfigMaps**, and **Secrets**, following least-privilege principles.
+- 🛠 **Support production environments** by troubleshooting deployments, analyzing logs, and resolving infrastructure and application issues to maintain high availability.  
+- 📈 Ensure observability and performance with **Prometheus**, and **Elastic Search**, minimizing downtime
 
 ---
 
