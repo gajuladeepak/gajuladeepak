@@ -1,99 +1,92 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">
-My name is <b>Deepak Gajula</b> and I'm an <b>Application Support Engineer (DevOps-focused)</b>, from <b>Hyderabad, India</b>.
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-🚀 DevOps-focused Application Support Engineer with hands-on experience in CI/CD, containerization, and cloud infrastructure<br>
-☁️ Worked with AWS, Docker, Kubernetes, Jenkins, and Terraform in production-like environments<br>
-🔁 Experienced in supporting Kubernetes deployments, CI/CD pipelines, and release workflows<br>
-🐧 Strong in Linux operations, automation, and troubleshooting<br>
-📈 Building toward DevOps / Platform Engineering roles
-</p>
-
-###
-
-<h2 align="left">🌐 Socials</h2>
-
-###
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gajula-deepak/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:gajuladeepak20007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+<div align="center">
+  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
 </div>
 
-###
+# 👋 Hi, I'm Deepak Gajula
 
-<h2 align="left">💻 Skills</h2>
+### Software Engineer II – SRE @ JPMorgan Chase  
+🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
 
-###
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gajula-deepak/)
+[![Gmail](https://img.shields.io/badge/Email-deepakgajula15@gmail.com-red?logo=gmail&style=flat)](mailto:deepakgajula15@gmail.com)
+
+---
+
+I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience** working on CI/CD pipelines, containerization, and cloud infrastructure. I focus on automating deployment workflows, managing Kubernetes platforms, and provisioning AWS infrastructure using Terraform, ensuring reliable and scalable application delivery.
+
+---
+
+### 🧰 Tech Stack
+
+- **Cloud**: AWS 
+- **OS**: Linux, Windows
+- **CI/CD**: GitHub Actions, Jenkins  
+- **SCM**: GitHub  
+- **IaC**: Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Prometheus, Grafana
+
+---
+
+### 🔧 What I Do
+
+- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
+- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
+- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+
+---
+
+### 💼 Career Snapshot
+
+- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
+  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
+
+- 🏢 **Presidio** – *Senior DevOps Engineer*  
+  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
+
+- 🏢 **CGI** – *Systems Engineer*  
+  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
+
+- 🏢 **Avineon** – *GIS Engineer*  
+  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
+
+
+
+## ⚙️ Skills Showcase
 
 <p align="left">
-<b>Containerization & Orchestration:</b> Docker, Kubernetes (EKS), Helm<br>
-<b>CI/CD Automation:</b> Jenkins (Shared Libraries), Git, GitHub Webhooks<br>
-<b>Infrastructure as Code:</b> Terraform<br>
-<b>Configuration Management:</b> Ansible<br>
-<b>Cloud:</b> AWS (ECR, EKS, EC2, IAM, VPC)<br>
-<b>DevSecOps:</b> SonarQube (SAST), Veracode (DAST), ECR Image Scanning<br>
-<b>Scripting:</b> Shell, Python<br>
-<b>Version Control:</b> Git, GitHub<br>
-<b>OS & Tools:</b> Linux (RHEL 9), Jira<br>
-<b>Build / Package Tools:</b> Maven, NPM, pip
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-###
+---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gajuladeepak&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gajuladeepak&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajuladeepak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+---
 
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=gajuladeepak&theme=dark&hide_border=false" />
-
-<br/>
-
+Thanks for visiting!
