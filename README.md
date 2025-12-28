@@ -97,7 +97,3 @@ My name is <b>Deepak Gajula</b> and I'm an <b>Application Support Engineer (DevO
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajuladeepak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
----
-
