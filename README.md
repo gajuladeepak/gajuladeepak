@@ -46,7 +46,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 
 ## 💼 Career Snapshot
 
-- **Cognizant – Programmer Analyst**  
+- **Cognizant – Programmer Analyst** *(Oct 2022 – Present)*  
   Worked across multiple client projects delivering DevOps and cloud automation solutions.
 
   - **Buzz Online Blending Application**  
@@ -54,6 +54,10 @@ I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience*
 
   - **Pearson Education**  
     Infrastructure automation and configuration using Terraform, Ansible, and Shell scripting on AWS-based platforms.
+
+- **Cognizant – DevOps Intern** 
+  Supported containerized application deployments and CI/CD workflows while gaining hands-on experience with Docker, Kubernetes, Jenkins, Terraform, AWS, and Linux operations.
+
 
 
 
