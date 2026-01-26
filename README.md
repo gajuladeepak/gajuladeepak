@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Deepak Gajula
 
-### DevOps $ Cloud Engineer  – Cognizant
+### DevOps $ SRE Engineer  – Cognizant
 🚀 DevOps Engineer | AWS | Kubernetes (EKS) | CI/CD | Terraform
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience** working on CI/CD pipelines, containerization, and cloud infrastructure. I focus on automating deployment workflows, managing Kubernetes platforms, and provisioning AWS infrastructure using Terraform, ensuring reliable and scalable application delivery.
+I'm a passionate **DevOps & SRE Engineer** with over **3+ years of experience** working on CI/CD pipelines, containerization, and cloud infrastructure. I focus on automating deployment workflows, managing Kubernetes platforms, and provisioning AWS infrastructure using Terraform, ensuring reliable and scalable application delivery.
 
 ---
 
