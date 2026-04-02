@@ -17,17 +17,17 @@
 
 
 
-I'm a passionate **DevOps & Cloud Engineer** with over **3+ years of experience** working on CI/CD pipelines, containerization, and cloud infrastructure. I focus on automating deployment workflows, managing Kubernetes platforms, and provisioning AWS infrastructure using Terraform, ensuring reliable and scalable application delivery.
+I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience** working on CI/CD pipelines, containerization, and cloud infrastructure. I focus on automating deployment workflows, managing Kubernetes platforms, and provisioning AWS infrastructure using Terraform, ensuring reliable and scalable application delivery.
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS 
-- **OS**: Linux, Windows
-- **CI/CD**: GitHub Actions, Jenkins  
-- **SCM**: GitHub  
-- **IaC**: Terraform. Cloudformation  
+- **Operating Systems:**: Linux (RHEL, Ubuntu), Windows 
+- **Scripting**: Shell, Python
+- **Source Code Management:**: Git, GitHub  
+- **Cloud Platforms:**: AWS
+- **Infrastructure as Code (IaC)**: Terraform 
 - **Containers**: Docker, Kubernetes 
 - **Security & Scanning**: SonarQube
 - **Scripting**: Bash, Shell, Python  
